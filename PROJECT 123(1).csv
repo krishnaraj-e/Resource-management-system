@@ -1,0 +1,1065 @@
+Day,Period,Year,Department,Subject,Staff,Resource,Block,Batch
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,MM-LAB,IT-BLOCK,E5 B
+Monday,p6,3,CP09,PE,rijina,MM-LAB,IT-BLOCK,E5 B
+Monday,p7,3,CP09,MENT,rijina,MM-LAB,IT-BLOCK,E5 B
+Monday,p8,3,CP09,PIC,rijina,MM-LAB,IT-BLOCK,E5 B
+Monday,p9,,CP09,,,MM-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,MM-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,MM-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,MM-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,MM-LAB,IT-BLOCK, E1 A
+Thursday,p7,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,MM-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,MM-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,MM-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,MM-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,MM-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,CR2,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,,,,,,IT-BLOCK,
+Monday,p6,,,,,,IT-BLOCK,
+Monday,p7,1,CP09,MATHS,Jishnu,CR2,IT-BLOCK,E1 B
+Monday,p8,1,CP09,PE,Jishnu,CR2,IT-BLOCK,E1 B
+Monday,p9,1,CP09,BE,menaka,CR2,IT-BLOCK,E1 B
+Monday,p10,1,CP09,T.SEM,menaka,CR2,IT-BLOCK,E1 B
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,,,,,IT-BLOCK,
+Tuesday,p4,,,,,,IT-BLOCK,
+Tuesday,p5,,,,,,IT-BLOCK,
+Tuesday,p6,,,,,,IT-BLOCK,
+Tuesday,p7,1,CP09,ENG,Mary Thomas ,CR2,IT-BLOCK,E1 B
+Tuesday,p8,1,CP09,ENG,Mary Thomas ,CR2,IT-BLOCK,E1 B
+Tuesday,p9,1,CP09,E.TECH,liju,CR2,IT-BLOCK,E1 B
+Tuesday,p10,1,CP09,SPTK(1),jagadish,,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,1,CP09,BE,Shwetha G J,CR2,IT-BLOCK,E1 B
+Wednesday,p4,1,CP09,E.TECH,liju,CR2,IT-BLOCK,E1 B
+Wednesday,p5,1,CP09,ELSD,Mary Thomas,CR2,IT-BLOCK,E1 B
+Wednesday,p6,1,CP09,ENG,Mary Thomas,CR2,IT-BLOCK,E1 B
+Wednesday,p7,1,CP09,BC,vivek,CR2,IT-BLOCK,E1 B
+Wednesday,p8,1,CP09,BC,vivek,CR2,IT-BLOCK,E1 B
+Wednesday,p9,1,CP09,BC,vivek,CR2,IT-BLOCK,E1 B
+Wednesday,p10,1,CP09,BC,vivek,CR2,IT-BLOCK,E1 B
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Thursday,p4,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Thursday,p5,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Thursday,p6,1,CP09,AS,Deepa,CR2,IT-BLOCK,E1 B
+Thursday,p7,1,CP09,PRJ,liju,CR2,IT-BLOCK,E1 B
+Thursday,p8,1,CP09,PRJ,liju,CR2,IT-BLOCK,E1 B
+Thursday,p9,1,CP09,TSEM,bhuvana,CR2,IT-BLOCK,E1 B
+Thursday,p10,1,CP09,MATHS,Jishnu,CR2,IT-BLOCK,E1 B
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Friday,p4,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Friday,p5,1,CP09,ED,elykia,CR2,IT-BLOCK,E1 B
+Friday,p6,1,CP09,PE,liju,CR2,IT-BLOCK,E1 B
+Friday,p7,1,CP09,AS,"Deepa,",CR2,IT-BLOCK,E1 B
+Friday,p8,1,CP09,MATHS,Jishnu,CR2,IT-BLOCK,E1 B
+Friday,p9,1,CP09,SS,"Deepa,",CR2,IT-BLOCK,E1 B
+Friday,p10,1,CP09,LIB,"Deepa,",CR2,IT-BLOCK,E1 B
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,CR 3,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,1,CP09,E.TECH,Cina Jose,CR3,IT-BLOCK,E1 A
+Monday,p4,1,CP09,ENG,Mary Thomas ,CR3,IT-BLOCK,E1 A 
+Monday,p5,1,CP09,ENG,Mary Thomas ,CR3,IT-BLOCK,E1 A
+Monday,p6,1,CP09,ELSD,Mary Thomas ,CR3,IT-BLOCK,E1 A 
+Monday,p7,1,CP09,LIB,Cina Jose,CR3,IT-BLOCK,E1 A
+Monday,p8,1,CP09,PRJ,Cina Jose,CR3,IT-BLOCK,E1 A 
+Monday,p9,1,CP09,T.SEM,Cina Jose,CR3,IT-BLOCK,E1 A
+Monday,p10,1,CP09,MATHS,Jishnu,CR3,IT-BLOCK,E1 A 
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,1,CP09,AS,Deepa,CR3,IT-BLOCK,E1 A
+Tuesday,p4,1,CP09,BE,Arun Padaki,CR3,IT-BLOCK,E1 A 
+Tuesday,p5,1,CP09,PE,Cina Jose,CR3,IT-BLOCK,E1 A
+Tuesday,p6,1,CP09,MATHS,Jishnu,CR3,IT-BLOCK,E1 A 
+Tuesday,p7,,,,,,IT-BLOCK,
+Tuesday,p8,,,,,,IT-BLOCK,
+Tuesday,p9,,,,,,IT-BLOCK,
+Tuesday,p10,,,,,,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,1,CP09,E.TECH,Cina Jose,CR3,IT-BLOCK,E1 A
+Wednesday,p4,1,CP09,ENG,Mary Thomas,CR3,IT-BLOCK,E1 A 
+Wednesday,p5,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A
+Wednesday,p6,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A 
+Wednesday,p7,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A
+Wednesday,p8,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A 
+Wednesday,p9,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A
+Wednesday,p10,1,CP09,ED,elykia,CR3,IT-BLOCK,E1 A 
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,2,CP09,AE II,Arun Padaki,CR3,IT-BLOCK,E3 A
+Thursday,p4,2,CP09,PE,vivek,CR3,IT-BLOCK,E3 A
+Thursday,p5,2,CP09,AE II,Arun Padaki,CR3,IT-BLOCK,E3 A
+Thursday,p6,2,CP09,PCB,prabha,CR3,IT-BLOCK,E3 A
+Thursday,p7,1,CP09,BC,vivek,CR3,IT-BLOCK,E1 A
+Thursday,p8,1,CP09,BC,vivek,CR3,IT-BLOCK,E1 A
+Thursday,p9,1,CP09,BC,vivek,CR3,IT-BLOCK,E1 A
+Thursday,p10,1,CP09,BC,vivek,CR3,IT-BLOCK,E1 A
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,1,CP09,AS,Deepa,CR3,IT-BLOCK,E1 A
+Friday,p4,1,CP09,BE,Arun Padaki,CR3,IT-BLOCK,E1 A
+Friday,p5,1,CP09,SPTK,Roopa B,CR3,IT-BLOCK,E1 A
+Friday,p6,1,CP09,SS,Arun Padaki,CR3,IT-BLOCK,E1 A
+Friday,p7,2,CP09,AC,Saravana T,CR3,IT-BLOCK,E3 A
+Friday,p8,2,CP09,AC,Saravana T,CR3,IT-BLOCK,E3 A
+Friday,p9,2,CP09,DE II ,liju,CR3,IT-BLOCK,E3 A
+Friday,p10,2,CP09,DE II ,liju,CR3,IT-BLOCK,E3 A
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,CR 4,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,2,CP09,AE II,Arun Padaki,CR4,IT-BLOCK,E3 A 
+Monday,p4,2,CP09,CP,Rama Krishnanand,CR4,IT-BLOCK,E3 A 
+Monday,p5,2,CP09,CP,Rama Krishnanand,CR4,IT-BLOCK,E3 A 
+Monday,p6,2,CP09,AC,Saravana T ,CR4,IT-BLOCK,E3 A 
+Monday,p7,,,,,,IT-BLOCK,
+Monday,p8,,,,,,IT-BLOCK,
+Monday,p9,,,,,,IT-BLOCK,
+Monday,p10,,,,,,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,2,CP09,DE II ,liju,CR4,IT-BLOCK,E3 A 
+Tuesday,p4,2,CP09,PCB,prabha,CR4,IT-BLOCK,E3 A 
+Tuesday,p5,2,CP09,CP,Rama Krishnanand,CR4,IT-BLOCK,E3 A 
+Tuesday,p6,2,CP09,CP,Rama Krishnanand,CR4,IT-BLOCK,E3 A 
+Tuesday,p7,2,CP09,AE II,Roopa B,CR4,IT-BLOCK,E3 B
+Tuesday,p8,2,CP09,PE,vivek,CR4,IT-BLOCK,E3 B 
+Tuesday,p9,2,CP09,DE II ,vivek,CR4,IT-BLOCK,E3 B 
+Tuesday,p10,2,CP09,DE II ,vivek,CR4,IT-BLOCK,E3 B
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,2,CP09,CP,RAM ,CR4,IT-BLOCK,E3 B
+Wednesday,p4,2,CP09,CP,RAM ,CR4,IT-BLOCK,E3 B
+Wednesday,p5,2,CP09,PCB,prabha,CR4,IT-BLOCK,E3 B
+Wednesday,p6,2,CP09,DE II ,vivek,CR4,IT-BLOCK,E3B
+Wednesday,p7,2,CP09,,,,IT-BLOCK,
+Wednesday,p8,2,CP09,,,,IT-BLOCK,
+Wednesday,p9,2,CP09,,,,IT-BLOCK,
+Wednesday,p10,2,CP09,,,,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP09,,,,IT-BLOCK,
+Thursday,p4,,CP09,,,,IT-BLOCK,
+Thursday,p5,2,CP09,AC,Reetha ,CR4,IT-BLOCK,E3 B
+Thursday,p6,2,CP09,AC,Reetha ,CR4,IT-BLOCK,E3 B 
+Thursday,p7,2,CP09,CP,Cina Jose,CR4,IT-BLOCK,E3 B 
+Thursday,p8,2,CP09,AE II,jagadish,CR4,IT-BLOCK,E3 B
+Thursday,p9,,,,,,IT-BLOCK,
+Thursday,p10,,,,,,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,2,CP09,AC,Reetha ,CR4,IT-BLOCK,E3 B
+Friday,p6,2,CP09,PCB,prabha,CR4,IT-BLOCK,E3 B 
+Friday,p7,2,CP09,CP,liju,CR4,IT-BLOCK,E3 B 
+Friday,p8,2,CP09,AE II,jagadish,CR4,IT-BLOCK,E3 B
+Friday,p9,,,,,,IT-BLOCK,
+Friday,p10,,,,,,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,CR5,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,,,,,,IT-BLOCK,
+Monday,p6,,,,,,IT-BLOCK,
+Monday,p7,,,,,,IT-BLOCK,
+Monday,p8,,,,,,IT-BLOCK,
+Monday,p9,,,,,,IT-BLOCK,
+Monday,p10,,,,,,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,,,,,IT-BLOCK,
+Tuesday,p4,,,,,,IT-BLOCK,
+Tuesday,p5,3,CP09,PE,Saravana T,CR5,IT-BLOCK,E5 B
+Tuesday,p6,3,CP09,DC,Saravana T,CR5,IT-BLOCK,E5 B
+Tuesday,p7,3,CP09,VLSI,Saravana T,CR5,IT-BLOCK,E5 B
+Tuesday,p8,3,CP09,PIC,bhuvana,CR5,IT-BLOCK,E5 B
+Tuesday,p9,3,CP09,,,,IT-BLOCK,
+Tuesday,p10,3,CP09,,,,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,3,CP09,DC,Reetha ,CR5,IT-BLOCK,E5 A
+Wednesday,p4,3,CP09,VLSI,menaka,CR5,IT-BLOCK,E5 A
+Wednesday,p5,3,CP09,PYTH,bhuvana,CR5,IT-BLOCK,E5 A
+Wednesday,p6,3,CP09,DC,Reetha ,CR5,IT-BLOCK,E5 A
+Wednesday,p7,3,CP09,PIC,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Wednesday,p8,3,CP09,MENT,bhuvana,CR5,IT-BLOCK,E5 A
+Wednesday,p9,3,CP09,PYTH,bhuvana,CR5,IT-BLOCK,E5 A
+Wednesday,p10,3,CP09,PIC,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,3,CP09,VLSI,Saravana T ,CR5,IT-BLOCK,E5 B
+Thursday,p4,3,CP09,PYTH,Rama Krishnanand,CR5,IT-BLOCK,E5 B
+Thursday,p5,3,CP09,PIC,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Thursday,p6,3,CP09,VLSI,Shwetha G J,CR5,IT-BLOCK,E5 A
+Thursday,p7,3,CP09,DC,Reetha ,CR5,IT-BLOCK,E5 A
+Thursday,p8,3,CP09,PE,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Thursday,p9,3,CP09,DC,Saravana T,CR5,IT-BLOCK,E5 B
+Thursday,p10,3,CP09,DC,Saravana T,CR5,IT-BLOCK,E5 B
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,3,CP09,PIC,bhuvana,CR5,IT-BLOCK,E5 B
+Friday,p4,3,CP09,PYTH,Rama Krishnanand,CR5,IT-BLOCK,E5 B
+Friday,p5,3,CP09,PIC,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Friday,p6,3,CP09,VLSI,menaka,CR5,IT-BLOCK,E5 A
+Friday,p7,3,CP09,DC,Reetha ,CR5,IT-BLOCK,E5 A
+Friday,p8,3,CP09,PE,Asha S Perumal,CR5,IT-BLOCK,E5 A
+Friday,p9,3,CP09,VLSI,Saravana T,CR5,IT-BLOCK,E5 B
+Friday,p10,3,CP09,PIC,bhuvana,CR5,IT-BLOCK,E5 B
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,,
+,,WT-LAB,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,WT-LAB,IT-BLOCK,E5 B
+Monday,p6,3,CP09,PE,rijina,WT-LAB,IT-BLOCK,E5 B
+Monday,p7,3,CP09,MENT,rijina,WT-LAB,IT-BLOCK,E5 B
+Monday,p8,3,CP09,PIC,rijina,WT-LAB,IT-BLOCK,E5 B
+Monday,p9,,CP09,,,WT-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,WT-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,WT-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,WT-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,WT-LAB,IT-BLOCK, E1 A
+Thursday,p7,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,WT-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,WT-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,WT-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,WT-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,WT-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,PL-LAB,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,PL-LAB,IT-BLOCK,
+Monday,p6,3,CP09,PE,rijina,PL-LAB,IT-BLOCK,
+Monday,p7,3,CP09,MENT,rijina,PL-LAB,IT-BLOCK,
+Monday,p8,3,CP09,PIC,rijina,PL-LAB,IT-BLOCK,
+Monday,p9,,CP09,,,PL-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,PL-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,PL-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,PL-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,PL-LAB,IT-BLOCK,
+Thursday,p7,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,PL-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,PL-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,PL-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,PL-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,PL-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,NETWORKING-LAB,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,NETWORKING-LAB,IT-BLOCK,
+Monday,p6,3,CP09,PE,rijina,NETWORKING-LAB,IT-BLOCK,
+Monday,p7,3,CP09,MENT,rijina,NETWORKING-LAB,IT-BLOCK,
+Monday,p8,3,CP09,PIC,rijina,NETWORKING-LAB,IT-BLOCK,
+Monday,p9,,CP09,,,NETWORKING-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,NETWORKING-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,NETWORKING-LAB,IT-BLOCK,
+Thursday,p7,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,NETWORKING-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,DB-LAB,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,DB-LAB,IT-BLOCK,
+Monday,p6,3,CP09,PE,rijina,DB-LAB,IT-BLOCK,
+Monday,p7,3,CP09,MENT,rijina,DB-LAB,IT-BLOCK,
+Monday,p8,3,CP09,PIC,rijina,DB-LAB,IT-BLOCK,
+Monday,p9,,CP09,,,DB-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,DB-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,DB-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,DB-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,DB-LAB,IT-BLOCK,
+Thursday,p7,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,DB-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,DB-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,DB-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,DB-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,DB-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,,LINUX-LAB,,,,,,
+Monday,p1,,,,,,IT-BLOCK,
+Monday,p2,,,,,,IT-BLOCK,
+Monday,p3,,,,,,IT-BLOCK,
+Monday,p4,,,,,,IT-BLOCK,
+Monday,p5,3,CP09,DS,rijina,LINUX-LAB,IT-BLOCK,
+Monday,p6,3,CP09,PE,rijina,LINUX-LAB,IT-BLOCK,
+Monday,p7,3,CP09,MENT,rijina,LINUX-LAB,IT-BLOCK,
+Monday,p8,3,CP09,PIC,rijina,LINUX-LAB,IT-BLOCK,
+Monday,p9,,CP09,,,LINUX-LAB,IT-BLOCK,
+Monday,p10,,CP09,,,LINUX-LAB,IT-BLOCK,
+Monday,p11,,,,,,IT-BLOCK,
+Monday,p12,,,,,,IT-BLOCK,
+Monday,p13,,,,,,IT-BLOCK,
+Monday,p14,,,,,,IT-BLOCK,
+Tuesday,p1,,,,,,IT-BLOCK,
+Tuesday,p2,,,,,,IT-BLOCK,
+Tuesday,p3,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p4,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p5,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p6,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p7,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p8,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p9,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p10,,CP08,,,LINUX-LAB,IT-BLOCK,
+Tuesday,p11,,,,,,IT-BLOCK,
+Tuesday,p12,,,,,,IT-BLOCK,
+Tuesday,p13,,,,,,IT-BLOCK,
+Tuesday,p14,,,,,,IT-BLOCK,
+Wednesday,p1,,,,,,IT-BLOCK,
+Wednesday,p2,,,,,,IT-BLOCK,
+Wednesday,p3,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p4,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p5,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p6,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p7,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p8,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p9,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p10,,CP08,,,LINUX-LAB,IT-BLOCK,
+Wednesday,p11,,,,,,IT-BLOCK,
+Wednesday,p12,,,,,,IT-BLOCK,
+Wednesday,p13,,,,,,IT-BLOCK,
+Wednesday,p14,,,,,,IT-BLOCK,
+Thursday,p1,,,,,,IT-BLOCK,
+Thursday,p2,,,,,,IT-BLOCK,
+Thursday,p3,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p4,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p5,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p6,1,CP09,PRJ,Cina Jose,LINUX-LAB,IT-BLOCK,
+Thursday,p7,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p8,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p9,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p10,,CP08,,,LINUX-LAB,IT-BLOCK,
+Thursday,p11,,,,,,IT-BLOCK,
+Thursday,p12,,,,,,IT-BLOCK,
+Thursday,p13,,,,,,IT-BLOCK,
+Thursday,p14,,,,,,IT-BLOCK,
+Friday,p1,,,,,,IT-BLOCK,
+Friday,p2,,,,,,IT-BLOCK,
+Friday,p3,,,,,,IT-BLOCK,
+Friday,p4,,,,,,IT-BLOCK,
+Friday,p5,,,,,,IT-BLOCK,
+Friday,p6,,,,,,IT-BLOCK,
+Friday,p7,,CP08,,,LINUX-LAB,IT-BLOCK,
+Friday,p8,,CP08,,,LINUX-LAB,IT-BLOCK,
+Friday,p9,,CP08,,,LINUX-LAB,IT-BLOCK,
+Friday,p10,,CP08,,,LINUX-LAB,IT-BLOCK,
+Friday,p11,,,,,,IT-BLOCK,
+Friday,p12,,,,,,IT-BLOCK,
+Friday,p13,,,,,,IT-BLOCK,
+Friday,p14,,,,,,IT-BLOCK,
+,Library block,,,,,,,
+Monday,p1,,,,,,LIB-BLOCK,
+Monday,p2,,,,,,LIB-BLOCK,
+Monday,p3,,,,,,LIB-BLOCK,
+Monday,p4,,,,,,LIB-BLOCK,
+Monday,p5,3,CP04,DC,Saravana,CR1,LIB-BLOCK,E5 B
+Monday,p6,3,CP04,PE,Saravana,CR1,LIB-BLOCK,E5 B
+Monday,p7,3,CP04,MENT,Asha S Perumal,CR1,LIB-BLOCK,E5 B
+Monday,p8,3,CP04,PIC,Priya Kumari,CR1,LIB-BLOCK,E5 B
+Monday,p9,,CP04,,,CR1,LIB-BLOCK,
+Monday,p10,,CP04,,,CR1,LIB-BLOCK,
+Monday,p11,,,,,,LIB-BLOCK,
+Monday,p12,,,,,,LIB-BLOCK,
+Monday,p13,,,,,,LIB-BLOCK,
+Monday,p14,,,,,,LIB-BLOCK,
+Tuesday,p1,,,,,,LIB-BLOCK,
+Tuesday,p2,,,,,,LIB-BLOCK,
+Tuesday,p3,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p4,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p5,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p6,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p7,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p8,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p9,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p10,,CP15,,,CR1,LIB-BLOCK,
+Tuesday,p11,,,,,,LIB-BLOCK,
+Tuesday,p12,,,,,,LIB-BLOCK,
+Tuesday,p13,,,,,,LIB-BLOCK,
+Tuesday,p14,,,,,,LIB-BLOCK,
+Wednesday,p1,,,,,,LIB-BLOCK,
+Wednesday,p2,,,,,,LIB-BLOCK,
+Wednesday,p3,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p4,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p5,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p6,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p7,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p8,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p9,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p10,,CP15,,,CR1,LIB-BLOCK,
+Wednesday,p11,,,,,,LIB-BLOCK,
+Wednesday,p12,,,,,,LIB-BLOCK,
+Wednesday,p13,,,,,,LIB-BLOCK,
+Wednesday,p14,,,,,,LIB-BLOCK,
+Thursday,p1,,,,,,LIB-BLOCK,
+Thursday,p2,,,,,,LIB-BLOCK,
+Thursday,p3,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p4,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p5,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p6,1,CP04,PRJ,Cina Jose,CR1,LIB-BLOCK, E1 A
+Thursday,p7,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p8,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p9,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p10,,CP15,,,CR1,LIB-BLOCK,
+Thursday,p11,,,,,,LIB-BLOCK,
+Thursday,p12,,,,,,LIB-BLOCK,
+Thursday,p13,,,,,,LIB-BLOCK,
+Thursday,p14,,,,,,LIB-BLOCK,
+Friday,p1,,,,,,LIB-BLOCK,
+Friday,p2,,,,,,LIB-BLOCK,
+Friday,p3,,,,,,LIB-BLOCK,
+Friday,p4,,,,,,LIB-BLOCK,
+Friday,p5,,,,,,LIB-BLOCK,
+Friday,p6,,,,,,LIB-BLOCK,
+Friday,p7,,CP15,,,CR1,LIB-BLOCK,
+Friday,p8,,CP15,,,CR1,LIB-BLOCK,
+Friday,p9,,CP15,,,CR1,LIB-BLOCK,
+Friday,p10,,CP15,,,CR1,LIB-BLOCK,
+Friday,p11,,,,,,LIB-BLOCK,
+Friday,p12,,,,,,LIB-BLOCK,
+Friday,p13,,,,,,LIB-BLOCK,
+Friday,p14,,,,,,LIB-BLOCK,
+,,CR2,,,,,,
+Monday,p1,,,,,,LIB-BLOCK,
+Monday,p2,,,,,,LIB-BLOCK,
+Monday,p3,,,,,,LIB-BLOCK,
+Monday,p4,,,,,,LIB-BLOCK,
+Monday,p5,,,,,,LIB-BLOCK,
+Monday,p6,,,,,,LIB-BLOCK,
+Monday,p7,1,CP04,MATHS,Joshi Sajith,CR2,LIB-BLOCK,E1 B
+Monday,p8,1,CP04,PE,Joshi Sajith,CR2,LIB-BLOCK,E1 B
+Monday,p9,1,CP04,BE,Shwetha G J ,CR2,LIB-BLOCK,E1 B
+Monday,p10,1,CP04,T.SEM,Shwetha G J ,CR2,LIB-BLOCK,E1 B
+Monday,p11,,,,,,LIB-BLOCK,
+Monday,p12,,,,,,LIB-BLOCK,
+Monday,p13,,,,,,LIB-BLOCK,
+Monday,p14,,,,,,LIB-BLOCK,
+Tuesday,p1,,,,,,LIB-BLOCK,
+Tuesday,p2,,,,,,LIB-BLOCK,
+Tuesday,p3,,,,,,LIB-BLOCK,
+Tuesday,p4,,,,,,LIB-BLOCK,
+Tuesday,p5,,,,,,LIB-BLOCK,
+Tuesday,p6,,,,,,LIB-BLOCK,
+Tuesday,p7,1,CP04,ENG,Mary Thomas ,CR2,LIB-BLOCK,E1 B
+Tuesday,p8,1,CP04,ENG,Mary Thomas ,CR2,LIB-BLOCK,E1 B
+Tuesday,p9,1,CP04,E.TECH,Benny Mathew,CR2,LIB-BLOCK,E1 B
+Tuesday,p10,1,CP04,SPTK(1),Roopa PB,,LIB-BLOCK,
+Tuesday,p11,,,,,,LIB-BLOCK,
+Tuesday,p12,,,,,,LIB-BLOCK,
+Tuesday,p13,,,,,,LIB-BLOCK,
+Tuesday,p14,,,,,,LIB-BLOCK,
+Wednesday,p1,,,,,,LIB-BLOCK,
+Wednesday,p2,,,,,,LIB-BLOCK,
+Wednesday,p3,1,CP04,BE,Shwetha G J,CR2,LIB-BLOCK,E1 B
+Wednesday,p4,1,CP04,E.TECH,Benny Mathew,CR2,LIB-BLOCK,E1 B
+Wednesday,p5,1,CP04,ELSD,Mary Thomas,CR2,LIB-BLOCK,E1 B
+Wednesday,p6,1,CP04,ENG,Mary Thomas,CR2,LIB-BLOCK,E1 B
+Wednesday,p7,1,CP04,BC,Ziya Rahman,CR2,LIB-BLOCK,E1 B
+Wednesday,p8,1,CP04,BC,Ziya Rahman,CR2,LIB-BLOCK,E1 B
+Wednesday,p9,1,CP04,BC,Ziya Rahman,CR2,LIB-BLOCK,E1 B
+Wednesday,p10,1,CP04,BC,Ziya Rahman,CR2,LIB-BLOCK,E1 B
+Wednesday,p11,,,,,,LIB-BLOCK,
+Wednesday,p12,,,,,,LIB-BLOCK,
+Wednesday,p13,,,,,,LIB-BLOCK,
+Wednesday,p14,,,,,,LIB-BLOCK,
+Thursday,p1,,,,,,LIB-BLOCK,
+Thursday,p2,,,,,,LIB-BLOCK,
+Thursday,p3,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Thursday,p4,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Thursday,p5,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Thursday,p6,1,CP04,AS,Muniyappa Mattam,CR2,LIB-BLOCK,E1 B
+Thursday,p7,1,CP04,PRJ,Benny Mathew,CR2,LIB-BLOCK,E1 B
+Thursday,p8,1,CP04,PRJ,Benny Mathew,CR2,LIB-BLOCK,E1 B
+Thursday,p9,1,CP04,TSEM,Priya Kumari,CR2,LIB-BLOCK,E1 B
+Thursday,p10,1,CP04,MATHS,Joshi sajith,CR2,LIB-BLOCK,E1 B
+Thursday,p11,,,,,,LIB-BLOCK,
+Thursday,p12,,,,,,LIB-BLOCK,
+Thursday,p13,,,,,,LIB-BLOCK,
+Thursday,p14,,,,,,LIB-BLOCK,
+Friday,p1,,,,,,LIB-BLOCK,
+Friday,p2,,,,,,LIB-BLOCK,
+Friday,p3,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Friday,p4,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Friday,p5,1,CP04,ED,Athul,CR2,LIB-BLOCK,E1 B
+Friday,p6,1,CP04,PE,Benny Mathew,CR2,LIB-BLOCK,E1 B
+Friday,p7,1,CP04,AS,"Muniyappa Mattam,",CR2,LIB-BLOCK,E1 B
+Friday,p8,1,CP04,MATHS,Joshi Sajith,CR2,LIB-BLOCK,E1 B
+Friday,p9,1,CP04,SS,"Muniyappa Mattam,",CR2,LIB-BLOCK,E1 B
+Friday,p10,1,CP04,LIB,"Muniyappa Mattam,",CR2,LIB-BLOCK,E1 B
+Friday,p11,,,,,,LIB-BLOCK,
+Friday,p12,,,,,,LIB-BLOCK,
+Friday,p13,,,,,,LIB-BLOCK,
+Friday,p14,,,,,,LIB-BLOCK,
+,,CR 3,,,,,,
+Monday,p1,,,,,,LIB-BLOCK,
+Monday,p2,,,,,,LIB-BLOCK,
+Monday,p3,1,CP04,E.TECH,Cina Jose,CR3,LIB-BLOCK,E1 A
+Monday,p4,1,CP04,ENG,Mary Thomas ,CR3,LIB-BLOCK,E1 A 
+Monday,p5,1,CP04,ENG,Mary Thomas ,CR3,LIB-BLOCK,E1 A
+Monday,p6,1,CP04,ELSD,Mary Thomas ,CR3,LIB-BLOCK,E1 A 
+Monday,p7,1,CP04,LIB,Cina Jose,CR3,LIB-BLOCK,E1 A
+Monday,p8,1,CP04,PRJ,Cina Jose,CR3,LIB-BLOCK,E1 A 
+Monday,p9,1,CP04,T.SEM,Cina Jose,CR3,LIB-BLOCK,E1 A
+Monday,p10,1,CP04,MATHS,Joshi sajith,CR3,LIB-BLOCK,E1 A 
+Monday,p11,,,,,,LIB-BLOCK,
+Monday,p12,,,,,,LIB-BLOCK,
+Monday,p13,,,,,,LIB-BLOCK,
+Monday,p14,,,,,,LIB-BLOCK,
+Tuesday,p1,,,,,,LIB-BLOCK,
+Tuesday,p2,,,,,,LIB-BLOCK,
+Tuesday,p3,1,CP04,AS,Muniyappa Mattam,CR3,LIB-BLOCK,E1 A
+Tuesday,p4,1,CP04,BE,Arun Padaki,CR3,LIB-BLOCK,E1 A 
+Tuesday,p5,1,CP04,PE,Cina Jose,CR3,LIB-BLOCK,E1 A
+Tuesday,p6,1,CP04,MATHS,Joshi sajith,CR3,LIB-BLOCK,E1 A 
+Tuesday,p7,,,,,,LIB-BLOCK,
+Tuesday,p8,,,,,,LIB-BLOCK,
+Tuesday,p9,,,,,,LIB-BLOCK,
+Tuesday,p10,,,,,,LIB-BLOCK,
+Tuesday,p11,,,,,,LIB-BLOCK,
+Tuesday,p12,,,,,,LIB-BLOCK,
+Tuesday,p13,,,,,,LIB-BLOCK,
+Tuesday,p14,,,,,,LIB-BLOCK,
+Wednesday,p1,,,,,,LIB-BLOCK,
+Wednesday,p2,,,,,,LIB-BLOCK,
+Wednesday,p3,1,CP04,E.TECH,Cina Jose,CR3,LIB-BLOCK,E1 A
+Wednesday,p4,1,CP04,ENG,Mary Thomas,CR3,LIB-BLOCK,E1 A 
+Wednesday,p5,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A
+Wednesday,p6,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A 
+Wednesday,p7,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A
+Wednesday,p8,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A 
+Wednesday,p9,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A
+Wednesday,p10,1,CP04,ED,Athul,CR3,LIB-BLOCK,E1 A 
+Wednesday,p11,,,,,,LIB-BLOCK,
+Wednesday,p12,,,,,,LIB-BLOCK,
+Wednesday,p13,,,,,,LIB-BLOCK,
+Wednesday,p14,,,,,,LIB-BLOCK,
+Thursday,p1,,,,,,LIB-BLOCK,
+Thursday,p2,,,,,,LIB-BLOCK,
+Thursday,p3,2,CP04,AE II,Arun Padaki,CR3,LIB-BLOCK,E3 A
+Thursday,p4,2,CP04,PE,Ziya Rahman,CR3,LIB-BLOCK,E3 A
+Thursday,p5,2,CP04,AE II,Arun Padaki,CR3,LIB-BLOCK,E3 A
+Thursday,p6,2,CP04,PCB,Palani Kumar,CR3,LIB-BLOCK,E3 A
+Thursday,p7,1,CP04,BC,Ziya Rahman,CR3,LIB-BLOCK,E1 A
+Thursday,p8,1,CP04,BC,Ziya Rahman,CR3,LIB-BLOCK,E1 A
+Thursday,p9,1,CP04,BC,Ziya Rahman,CR3,LIB-BLOCK,E1 A
+Thursday,p10,1,CP04,BC,Ziya Rahman,CR3,LIB-BLOCK,E1 A
+Thursday,p11,,,,,,LIB-BLOCK,
+Thursday,p12,,,,,,LIB-BLOCK,
+Thursday,p13,,,,,,LIB-BLOCK,
+Thursday,p14,,,,,,LIB-BLOCK,
+Friday,p1,,,,,,LIB-BLOCK,
+Friday,p2,,,,,,LIB-BLOCK,
+Friday,p3,1,CP04,AS,Muniyappa Mattam,CR3,LIB-BLOCK,E1 A
+Friday,p4,1,CP04,BE,Arun Padaki,CR3,LIB-BLOCK,E1 A
+Friday,p5,1,CP04,SPTK,Roopa B,CR3,LIB-BLOCK,E1 A
+Friday,p6,1,CP04,SS,Arun Padaki,CR3,LIB-BLOCK,E1 A
+Friday,p7,2,CP04,AC,Saravana T,CR3,LIB-BLOCK,E3 A
+Friday,p8,2,CP04,AC,Saravana T,CR3,LIB-BLOCK,E3 A
+Friday,p9,2,CP04,DE II ,Benny Mathew,CR3,LIB-BLOCK,E3 A
+Friday,p10,2,CP04,DE II ,Benny Mathew,CR3,LIB-BLOCK,E3 A
+Friday,p11,,,,,,LIB-BLOCK,
+Friday,p12,,,,,,LIB-BLOCK,
+Friday,p13,,,,,,LIB-BLOCK,
+Friday,p14,,,,,,LIB-BLOCK,
+,,CR 4,,,,,,
+Monday,p1,,,,,,LIB-BLOCK,
+Monday,p2,,,,,,LIB-BLOCK,
+Monday,p3,2,CP04,AE II,Arun Padaki,CR4,LIB-BLOCK,E3 A 
+Monday,p4,2,CP04,CP,Rama Krishnanand,CR4,LIB-BLOCK,E3 A 
+Monday,p5,2,CP04,CP,Rama Krishnanand,CR4,LIB-BLOCK,E3 A 
+Monday,p6,2,CP04,AC,Saravana T ,CR4,LIB-BLOCK,E3 A 
+Monday,p7,,,,,,LIB-BLOCK,
+Monday,p8,,,,,,LIB-BLOCK,
+Monday,p9,,,,,,LIB-BLOCK,
+Monday,p10,,,,,,LIB-BLOCK,
+Monday,p11,,,,,,LIB-BLOCK,
+Monday,p12,,,,,,LIB-BLOCK,
+Monday,p13,,,,,,LIB-BLOCK,
+Monday,p14,,,,,,LIB-BLOCK,
+Tuesday,p1,,,,,,LIB-BLOCK,
+Tuesday,p2,,,,,,LIB-BLOCK,
+Tuesday,p3,2,CP04,DE II ,Benny Mathew,CR4,LIB-BLOCK,E3 A 
+Tuesday,p4,2,CP04,PCB,Palani Kumar,CR4,LIB-BLOCK,E3 A 
+Tuesday,p5,2,CP04,CP,Rama Krishnanand,CR4,LIB-BLOCK,E3 A 
+Tuesday,p6,2,CP04,CP,Rama Krishnanand,CR4,LIB-BLOCK,E3 A 
+Tuesday,p7,2,CP04,AE II,Roopa B,CR4,LIB-BLOCK,E3 B
+Tuesday,p8,2,CP04,PE,Ziya Rahman,CR4,LIB-BLOCK,E3 B 
+Tuesday,p9,2,CP04,DE II ,Ziya Rahman,CR4,LIB-BLOCK,E3 B 
+Tuesday,p10,2,CP04,DE II ,Ziya Rahman,CR4,LIB-BLOCK,E3 B
+Tuesday,p11,,,,,,LIB-BLOCK,
+Tuesday,p12,,,,,,LIB-BLOCK,
+Tuesday,p13,,,,,,LIB-BLOCK,
+Tuesday,p14,,,,,,LIB-BLOCK,
+Wednesday,p1,,,,,,LIB-BLOCK,
+Wednesday,p2,,,,,,LIB-BLOCK,
+Wednesday,p3,2,CP04,CP,RAM ,CR4,LIB-BLOCK,E3 B
+Wednesday,p4,2,CP04,CP,RAM ,CR4,LIB-BLOCK,E3 B
+Wednesday,p5,2,CP04,PCB,Palani Kumar,CR4,LIB-BLOCK,E3 B
+Wednesday,p6,2,CP04,DE II ,Ziya Rahman,CR4,LIB-BLOCK,E3B
+Wednesday,p7,2,CP04,,,,LIB-BLOCK,
+Wednesday,p8,2,CP04,,,,LIB-BLOCK,
+Wednesday,p9,2,CP04,,,,LIB-BLOCK,
+Wednesday,p10,2,CP04,,,,LIB-BLOCK,
+Wednesday,p11,,,,,,LIB-BLOCK,
+Wednesday,p12,,,,,,LIB-BLOCK,
+Wednesday,p13,,,,,,LIB-BLOCK,
+Wednesday,p14,,,,,,LIB-BLOCK,
+Thursday,p1,,,,,,LIB-BLOCK,
+Thursday,p2,,,,,,LIB-BLOCK,
+Thursday,p3,,CP04,,,,LIB-BLOCK,
+Thursday,p4,,CP04,,,,LIB-BLOCK,
+Thursday,p5,2,CP04,AC,Reetha ,CR4,LIB-BLOCK,E3 B
+Thursday,p6,2,CP04,AC,Reetha ,CR4,LIB-BLOCK,E3 B 
+Thursday,p7,2,CP04,CP,Cina Jose,CR4,LIB-BLOCK,E3 B 
+Thursday,p8,2,CP04,AE II,Roopa PB,CR4,LIB-BLOCK,E3 B
+Thursday,p9,,,,,,LIB-BLOCK,
+Thursday,p10,,,,,,LIB-BLOCK,
+Thursday,p11,,,,,,LIB-BLOCK,
+Thursday,p12,,,,,,LIB-BLOCK,
+Thursday,p13,,,,,,LIB-BLOCK,
+Thursday,p14,,,,,,LIB-BLOCK,
+Friday,p1,,,,,,LIB-BLOCK,
+Friday,p2,,,,,,LIB-BLOCK,
+Friday,p3,,,,,,LIB-BLOCK,
+Friday,p4,,,,,,LIB-BLOCK,
+Friday,p5,2,CP04,AC,Reetha ,CR4,LIB-BLOCK,E3 B
+Friday,p6,2,CP04,PCB,Palani Kumar,CR4,LIB-BLOCK,E3 B 
+Friday,p7,2,CP04,CP,Benny Mathew,CR4,LIB-BLOCK,E3 B 
+Friday,p8,2,CP04,AE II,Roopa PB,CR4,LIB-BLOCK,E3 B
+Friday,p9,,,,,,LIB-BLOCK,
+Friday,p10,,,,,,LIB-BLOCK,
+Friday,p11,,,,,,LIB-BLOCK,
+Friday,p12,,,,,,LIB-BLOCK,
+Friday,p13,,,,,,LIB-BLOCK,
+Friday,p14,,,,,,LIB-BLOCK,
+,,CR 5,,,,,,
+Monday,p1,,,,,,LIB-BLOCK,
+Monday,p2,,,,,,LIB-BLOCK,
+Monday,p3,,,,,,LIB-BLOCK,
+Monday,p4,,,,,,LIB-BLOCK,
+Monday,p5,,,,,,LIB-BLOCK,
+Monday,p6,,,,,,LIB-BLOCK,
+Monday,p7,,,,,,LIB-BLOCK,
+Monday,p8,,,,,,LIB-BLOCK,
+Monday,p9,,,,,,LIB-BLOCK,
+Monday,p10,,,,,,LIB-BLOCK,
+Monday,p11,,,,,,LIB-BLOCK,
+Monday,p12,,,,,,LIB-BLOCK,
+Monday,p13,,,,,,LIB-BLOCK,
+Monday,p14,,,,,,LIB-BLOCK,
+Tuesday,p1,,,,,,LIB-BLOCK,
+Tuesday,p2,,,,,,LIB-BLOCK,
+Tuesday,p3,,,,,,LIB-BLOCK,
+Tuesday,p4,,,,,,LIB-BLOCK,
+Tuesday,p5,3,CP04,PE,Saravana T,CR 5,LIB-BLOCK,E5 B
+Tuesday,p6,3,CP04,DC,Saravana T,CR 5,LIB-BLOCK,E5 B
+Tuesday,p7,3,CP04,VLSI,Saravana T,CR 5,LIB-BLOCK,E5 B
+Tuesday,p8,3,CP04,PIC,Priya Kumari,CR 5,LIB-BLOCK,E5 B
+Tuesday,p9,3,CP04,,,,LIB-BLOCK,
+Tuesday,p10,3,CP04,,,,LIB-BLOCK,
+Tuesday,p11,,,,,,LIB-BLOCK,
+Tuesday,p12,,,,,,LIB-BLOCK,
+Tuesday,p13,,,,,,LIB-BLOCK,
+Tuesday,p14,,,,,,LIB-BLOCK,
+Wednesday,p1,,,,,,LIB-BLOCK,
+Wednesday,p2,,,,,,LIB-BLOCK,
+Wednesday,p3,3,CP04,DC,Reetha ,CR 5,LIB-BLOCK,E5 A
+Wednesday,p4,3,CP04,VLSI,Shwetha G J ,CR 5,LIB-BLOCK,E5 A
+Wednesday,p5,3,CP04,PYTH,Priya Kumari,CR 5,LIB-BLOCK,E5 A
+Wednesday,p6,3,CP04,DC,Reetha ,CR 5,LIB-BLOCK,E5 A
+Wednesday,p7,3,CP04,PIC,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Wednesday,p8,3,CP04,MENT,Priya Kumari,CR 5,LIB-BLOCK,E5 A
+Wednesday,p9,3,CP04,PYTH,Priya Kumari,CR 5,LIB-BLOCK,E5 A
+Wednesday,p10,3,CP04,PIC,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Wednesday,p11,,,,,,LIB-BLOCK,
+Wednesday,p12,,,,,,LIB-BLOCK,
+Wednesday,p13,,,,,,LIB-BLOCK,
+Wednesday,p14,,,,,,LIB-BLOCK,
+Thursday,p1,,,,,,LIB-BLOCK,
+Thursday,p2,,,,,,LIB-BLOCK,
+Thursday,p3,3,CP04,VLSI,Saravana T ,CR 5,LIB-BLOCK,E5 B
+Thursday,p4,3,CP04,PYTH,Rama Krishnanand,CR 5,LIB-BLOCK,E5 B
+Thursday,p5,3,CP04,PIC,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Thursday,p6,3,CP04,VLSI,Shwetha G J,CR 5,LIB-BLOCK,E5 A
+Thursday,p7,3,CP04,DC,Reetha ,CR 5,LIB-BLOCK,E5 A
+Thursday,p8,3,CP04,PE,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Thursday,p9,3,CP04,DC,Saravana T,CR 5,LIB-BLOCK,E5 B
+Thursday,p10,3,CP04,DC,Saravana T,CR 5,LIB-BLOCK,E5 B
+Thursday,p11,,,,,,LIB-BLOCK,
+Thursday,p12,,,,,,LIB-BLOCK,
+Thursday,p13,,,,,,LIB-BLOCK,
+Thursday,p14,,,,,,LIB-BLOCK,
+Friday,p1,,,,,,LIB-BLOCK,
+Friday,p2,,,,,,LIB-BLOCK,
+Friday,p3,3,CP04,PIC,Priya Kumari,CR 5,LIB-BLOCK,E5 B
+Friday,p4,3,CP04,PYTH,Rama Krishnanand,CR 5,LIB-BLOCK,E5 B
+Friday,p5,3,CP04,PIC,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Friday,p6,3,CP04,VLSI,Shwetha G J ,CR 5,LIB-BLOCK,E5 A
+Friday,p7,3,CP04,DC,Reetha ,CR 5,LIB-BLOCK,E5 A
+Friday,p8,3,CP04,PE,Asha S Perumal,CR 5,LIB-BLOCK,E5 A
+Friday,p9,3,CP04,VLSI,Saravana T,CR 5,LIB-BLOCK,E5 B
+Friday,p10,3,CP04,PIC,Priya Kumari,CR 5,LIB-BLOCK,E5 B
+Friday,p11,,,,,,LIB-BLOCK,
+Friday,p12,,,,,,LIB-BLOCK,
+Friday,p13,,,,,,LIB-BLOCK,
+Friday,p14,,,,,,,
