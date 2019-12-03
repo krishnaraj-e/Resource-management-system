@@ -1,2 +1,2 @@
 # Resource-management-system
-A resource management system to see the overview of a block.
+A resource management system to see the overview of a block. It allows the user to upload the data in the form of a excel sheet CSV (comma seperated values). It enters the data in the database and based on the data which is in the database. The code fetches the data and displays the value as FREE or OCCUPIED based on the table. And it shows about who's oppupied the class and details of it. 
