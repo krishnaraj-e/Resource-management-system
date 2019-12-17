@@ -26,16 +26,26 @@ SET time_zone = "+00:00";
 -- Table structure for table `allocation`
 --
 
-CREATE TABLE IF NOT EXISTS `allocation` (
-  `resource` varchar(200) NOT NULL,
-  `status` int(2) NOT NULL,
-  `period` varchar(30) NOT NULL,
-  `day` varchar(50) NOT NULL,
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `test`
+--
+
+CREATE TABLE IF NOT EXISTS `test`(
+  `day` varchar(200) NOT NULL,
+  `period` varchar(200) NOT NULL,
   `year` varchar(50) NOT NULL,
-  `dept` varchar(50) NOT NULL,
-  `staff` varchar(200) NOT NULL,
-  PRIMARY KEY (`period`,`day`,`year`,`staff`)
+  `department` varchar(100),
+  `subject` varchar(100),
+  `staff` varchar(200),
+  `resource`varchar(100),
+  `block` varchar (100)NOT NULL,
+  `batch` varchar(100)
+
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+--
 
 --
 -- Dumping data for table `allocation`
