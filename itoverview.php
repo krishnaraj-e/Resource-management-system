@@ -137,18 +137,18 @@ if ($result->num_rows== 0 )
 
         	echo "<th>P/R</th>";
 
-            echo "<th>CR2</th>";
-            echo "<th>CR3</th>";
-            echo "<th>CR4</th>";
-            echo "<th>CR5</th>";
-            echo "<th>CR6</th>";
-            echo "<th>VCS</th>";
-        	echo "<th>MM-LAB</th>";
-        	echo "<th>PL-LAB</th>";
-        	echo "<th>LINUX-LAB</th>";
-        	echo "<th>NETWORKING-LAB</th>";
-            echo "<th>DB-LAB</th>";
-            echo "<th>WT-LAB</th>";
+            echo "<th>CR2 [50]</th>";
+            echo "<th>CR3 [40]</th>";
+            echo "<th>CR4 [50]</th>";
+            echo "<th>CR5 [50]</th>";
+            echo "<th>CR6 [50]</th>";
+            echo "<th>VCS [50]</th>";
+        	echo "<th>MM-LAB [25]</th>";
+        	echo "<th>PL-LAB [25]</th>";
+        	echo "<th>LINUX-LAB [25]</th>";
+        	echo "<th>NETWORKING-LAB [25]</th>";
+            echo "<th>DB-LAB [25]</th>";
+            echo "<th>WT-LAB [25]</th>";
 
 
 

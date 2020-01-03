@@ -137,16 +137,16 @@ if ($result->num_rows== 0 )
 
         	echo "<th>P/R</th>";
 
-            echo "<th>CR1</th>";
-            echo "<th>CR2</th>";
-            echo "<th>CR3</th>";
-            echo "<th>CR4</th>";
-            echo "<th>CR5</th>";
-            echo "<th>CR6</th>";
-        	echo "<th>CR7</th>";
-        	echo "<th>CR8</th>";
-        	echo "<th>CR ITI</th>";
-        	echo "<th>SIM-III lab</th>";
+            echo "<th>CR1 [50]</th>";
+            echo "<th>CR2 [50]</th>";
+            echo "<th>CR3 [50]</th>";
+            echo "<th>CR4 [50]</th>";
+            echo "<th>CR5 [50]</th>";
+            echo "<th>CR6 [50]</th>";
+        	echo "<th>CR7 [50]</th>";
+        	echo "<th>CR8 [50]</th>";
+        	echo "<th>CR ITI [25]</th>";
+        	echo "<th>SIM-III lab [25]</th>";
 
 
 

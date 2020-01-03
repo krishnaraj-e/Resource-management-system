@@ -135,11 +135,11 @@ if ($result->num_rows== 0 )
 
         	echo "<th>P/R</th>";
 
-            echo "<th>CR1</th>";
-            echo "<th>CR2</th>";
-            echo "<th>CR3</th>";
-            echo "<th>CR4</th>";
-            echo "<th>CR5</th>";
+            echo "<th>CR1 [50]</th>";
+            echo "<th>CR2 [50]</th>";
+            echo "<th>CR3 [50]</th>";
+            echo "<th>CR4 [50]</th>";
+            echo "<th>CR5 [50]</th>";
  
 
 

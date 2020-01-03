@@ -135,24 +135,24 @@ if ($result->num_rows== 0 )
 
         	echo "<th>P/R</th>";
 
-            echo "<th>CR1</th>";
-            echo "<th>CR2</th>";
-            echo "<th>CR3</th>";
-            echo "<th>Automation lab</th>";
-            echo "<th>D printing lab</th>";
-            echo "<th>CNC lab</th>";
-            echo "<th>Metrology lab</th>";
-            echo "<th>Robotics lab</th>";
-            echo "<th>Eletronics lab</th>";
-            echo "<th>Simulation lab</th>";
-            echo "<th>Eletrical lab</th>";
-            echo "<th>Pneumatics and Hydraulics lab</th>";
-            echo "<th>Computer lab 1</th>";
-            echo "<th>Computer lab 2</th>";
-            echo "<th>Computer lab 3</th>";
-            echo "<th>Workshop 1</th>";
-            echo "<th>Workshop 2</th>";
-            echo "<th>Workshop 3</th>";
+            echo "<th>CR1 [50]</th>";
+            echo "<th>CR2 [50]</th>";
+            echo "<th>CR3 [50]</th>";
+            echo "<th>Automation lab [25]</th>";
+            echo "<th>D printing lab [25]</th>";
+            echo "<th>CNC lab [25]</th>";
+            echo "<th>Metrology lab [25]</th>";
+            echo "<th>Robotics lab [25]</th>";
+            echo "<th>Eletronics lab [25]</th>";
+            echo "<th>Simulation lab [25]</th>";
+            echo "<th>Eletrical lab [25]</th>";
+            echo "<th>Pneumatics and Hydraulics lab [25]</th>";
+            echo "<th>Computer lab 1 [25]</th>";
+            echo "<th>Computer lab 2 [25]</th>";
+            echo "<th>Computer lab 3 [25]</th>";
+            echo "<th>Workshop 1 [25]</th>";
+            echo "<th>Workshop 2 [25]</th>";
+            echo "<th>Workshop 3 [25]</th>";
             echo "<th>RPT</th>";
 
  

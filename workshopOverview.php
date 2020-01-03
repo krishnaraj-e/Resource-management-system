@@ -136,16 +136,16 @@ if ($result->num_rows== 0 )
 
         	echo "<th>P/R</th>";
 
-            echo "<th>ANALOG LAB 1</th>";
-            echo "<th>DIGITAL LAB 2</th>";
-            echo "<th>PROJECT LAB</th>";
-            echo "<th>INSTRUMENTATION LAB</th>";
-            echo "<th>COMMUNICATION LAB</th>";
-            echo "<th>POWER LAB 1</th>";
-        	echo "<th>POWER LAB 2</th>";
-        	echo "<th>DIGITAL LAB 1</th>";
-        	echo "<th>ANALOG LAB 2</th>";
-        	echo "<th>PCB LAB</th>";
+            echo "<th>ANALOG LAB 1 [25]</th>";
+            echo "<th>DIGITAL LAB 2 [25]</th>";
+            echo "<th>PROJECT LAB [25]</th>";
+            echo "<th>INSTRUMENTATION LAB [25]</th>";
+            echo "<th>COMMUNICATION LAB [25]</th>";
+            echo "<th>POWER LAB 1 [25]</th>";
+        	echo "<th>POWER LAB 2 [25]</th>";
+        	echo "<th>DIGITAL LAB 1 [25]</th>";
+        	echo "<th>ANALOG LAB 2 [25]</th>";
+        	echo "<th>PCB LAB [25]</th>";
 
 
 
