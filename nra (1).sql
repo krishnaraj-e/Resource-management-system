@@ -48,18 +48,7 @@ CREATE TABLE IF NOT EXISTS `test`(
 --
 
 --
--- Dumping data for table `allocation`
---
 
-INSERT INTO `allocation` (`resource`, `status`, `period`, `day`, `year`, `dept`, `staff`) VALUES
-('NETWORKING-LAB', 0, 'p1', 'Monday', '1', '', 'AIC'),
-('CR3', 0, 'p1', 'Wednesday', '2', '', 'DEEPA'),
-('VCS', 0, 'p2', 'Monday', '1', '', 'AIC'),
-('CR3', 0, 'p2', 'Wednesday', '1', '', 'AIC'),
-('PL-LAB', 0, 'p2', 'Wednesday', '1', '', 'DEEPA'),
-('MM-LAB', 0, 'p3', 'Wednesday', 'I', '', 'DEEPA'),
-('MM-LAB', 0, 'p8', 'Tuesday', 'I', '', 'DEEPA'),
-('MM-LAB', 0, 'p8', 'Wednesday', '2', '', 'DEEPA');
 
 -- --------------------------------------------------------
 
